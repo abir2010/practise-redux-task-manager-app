@@ -1,4 +1,7 @@
-# React + Vite
+## Practise Project using React-Redux (Task Manager)
+### Live Link : https://site-task-manager.netlify.app/
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
